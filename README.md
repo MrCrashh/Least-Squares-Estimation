@@ -116,4 +116,4 @@ $\left[\varphi\left(x, \\widehat{\theta_{k}}\right)-\Delta_{\alpha}(x) ; \varphi
 $$\overline{h}(x)=\frac{O_{i}}{n\cdot\Delta_{b}},$$ 
 где $O_{i}$ и $\Delta_{b}$ количество значений в $i$-ом интервале и ширина этого интервала соответственно.
 
-
+### 6. МП-оценка дисперсии $σ{2}$ случайной ошибки
