@@ -103,10 +103,9 @@ $\left[\varphi\left(x, \\widehat{\theta_{k}}\right)-\Delta_{\alpha}(x) ; \varphi
 
 ### 4. Графики
 
-![image](https://github.com/MrCrashh/Least-Squares-Estimation/assets/80788354/511dd854-49d4-4f81-ad12-a41e08759092)
+![newplot](https://github.com/MrCrashh/Least-Squares-Estimation/assets/80788354/37616270-1647-49d2-97cb-6bceac6f0f26)
 
-![image](https://github.com/MrCrashh/Least-Squares-Estimation/assets/80788354/76e5ec28-173b-4806-a7e5-5694a24493fb)
-
+![newplot (1)](https://github.com/MrCrashh/Least-Squares-Estimation/assets/80788354/8ae75628-710f-49cf-a5a7-f3b88ee80c1a)
 
 
 ### 5. Оценка плотности распределения остатков регрессии
