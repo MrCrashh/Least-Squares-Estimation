@@ -3,7 +3,6 @@ import sympy as sp
 
 from scipy.stats import f, t, chi2, norm
 
-
 def distribution(thetas, variance, n, m, distrib_type='normal'):
     """
     Генерирует данные для модели линейной регрессии с заданными параметрами
