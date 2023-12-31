@@ -116,6 +116,8 @@ $\left[\varphi\left(x, \\widehat{\theta_{k}}\right)-\Delta_{\alpha}(x) ; \varphi
 $$\overline{h}(x)=\frac{O_{i}}{n\cdot\Delta_{b}},$$ 
 где $O_{i}$ и $\Delta_{b}$ количество значений в $i$-ом интервале и ширина этого интервала соответственно.
 
+![newplot (2)](https://github.com/MrCrashh/Least-Squares-Estimation/assets/80788354/6703daf8-1257-4ab5-a74d-4fd253da92ba)
+
 ### 6. МП-оценка дисперсии $σ^{2}$ случайной ошибки
 
 В предположении нормальности $ε ∼ N (0, \sigma_{\varepsilon}^{2})$ мы можем вычислить оценку максимального правдоподобия случайной ошибки следующим образом:
