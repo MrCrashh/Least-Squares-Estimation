@@ -135,7 +135,7 @@ $$\begin{cases}
 \frac{\partial l(\widehat{\theta_{n}},\sigma_{\varepsilon}^{2})}{\partial \sigma_{\varepsilon}^{2}} =-\frac{n}{2\sigma_{\varepsilon}^{2}} + \frac{1}{2(\sigma_{\varepsilon}^{2})^{2}}(Z_{n}-X_{n}\widehat{\theta_{n}})^{T}(Z_{n} - X_{n} \widehat{\theta_{n}})=0,
 \end{cases}$$
 
-откуда из первого уравнения выражается МП-оценка:  $(\widehat{\theta_{n}}) _ {МП}= (X_{n}^{T}X_{n})^{-1} X_{n}^{T} Z_{n} $ и уже из второго:  
+откуда из первого уравнения выражается МП-оценка:  $(\widehat{\theta_{n}}) _ {МП}= (X_{n}^{T}X_{n})^{-1} X_{n}^{T} Z_{n}$ и уже из второго:  
 $$\sigma_{\varepsilon }^{2} = \frac{(Z_{n}-X_{n}\widehat{\theta_{n}})^{T}(Z_{n}-X_{n}\widehat{\theta_{n}})}{n} = \frac{\||\widehat{E}^{2}\||}{n}$$
 
 ### 7. Критерий Пирсона
